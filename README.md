@@ -74,6 +74,10 @@ To run the script again later:
 
 For other deployment options, see the [getting started guide](https://vanblog.mereith.com/guide/get-started.html). The default Docker Compose setup runs VanBlog and MongoDB as separate services.
 
+### One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/VanBlog/)
+
 ### Reverse proxies
 
 See the [reverse proxy guide](https://vanblog.mereith.com/reference/reverse-proxy.html).
